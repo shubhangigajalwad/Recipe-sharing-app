@@ -1,0 +1,2 @@
+# Recipe sharing app
+ recipe  is an intuitive platform for discovering, sharing, and exploring recipes from around the world. Whether you're a seasoned chef or a home cook, you can upload your favorite recipes, browse various categories, and find culinary inspiration. With user reviews, ratings, and personalized recommendations, RecipeHub ensures you always have the best recipes at your fingertips.
